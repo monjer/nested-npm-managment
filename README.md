@@ -8,3 +8,5 @@ Demo project showing how to use npm in nested folder
 $ cd project
 $ npm run install
 ```
+
+Now the `install.js` can only install the modules in the direct child folder.
